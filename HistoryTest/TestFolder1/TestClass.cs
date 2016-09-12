@@ -11,5 +11,9 @@ namespace HistoryTest.TestFolder1
         {
 
         }
+        public void Boo()
+        {
+
+        }
     }
 }
